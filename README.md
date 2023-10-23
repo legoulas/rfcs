@@ -76,5 +76,10 @@ Follow this process to get your feature merged into Cartographer.
   - When you create implementing PRs, please add a link to the RFC in the PR
     description.
 
+
+This is a useless comment
+
+And another useless comment
+
 [Cartographer Projects]: https://github.com/googlecartographer/cartographer/projects
 [RFC repository]: https://github.com/googlecartographer/rfcs
